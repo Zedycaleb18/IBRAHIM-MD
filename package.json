@@ -1,5 +1,5 @@
 {
-   "name": "black_panther-md",
+   "name": "xerox_xedy-md",
    "version": "1.2.8-beta",
    "description": "Multi device whatsapp bot by Ibrahim Tech.",
    "main": "lib/smd.js",
@@ -9,7 +9,7 @@
             "start": "pm2 start lib/smd.js --attach --name Ibrahim",
             "stop": "pm2 stop Ibrahim"
    },
-   "author": "Ibrahim Adams",
+   "author": "Xerox xilver",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
